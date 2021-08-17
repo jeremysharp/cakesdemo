@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jeremysharpuk/]
+[Linked In](https://www.linkedin.com/in/jeremysharpuk/)
 
 <!-- PROJECT LOGO -->
 <br />
