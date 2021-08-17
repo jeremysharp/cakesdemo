@@ -1,0 +1,12 @@
+.main {
+    background: rgba(50, 50, 50, 1);
+    padding: 10px;
+    font-size: xx-small;
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 0;
+    color: lightgray;
+    position: relative;
+    width: 100vw;
+    bottom: 0;
+}

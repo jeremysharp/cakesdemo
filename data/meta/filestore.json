@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Cinnamon Cake",
+        "comment": "Cinnamon comes from bark. So how does it taste so good?",
+        "yumFactor": 5,
+        "image": "cinamon.jpeg",
+        "id": 2,
+        "modified": "2021-08-16T20:04:18.423Z",
+        "imageUrl": "2-cinamon.jpeg"
+    },
+    {
+        "name": "Dundee Cake",
+        "comment": "The ultimate accompaniment for a cup of tea",
+        "yumFactor": 4,
+        "image": "dundee.jpeg",
+        "id": 3,
+        "modified": "2021-08-16T11:16:38.962Z",
+        "imageUrl": "3-dundee.jpeg"
+    },
+    {
+        "name": "Cheesecake",
+        "comment": "Rich and creamy, perhaps one of the most decadent desserts?",
+        "yumFactor": 4,
+        "image": "cheesecake.jpeg",
+        "id": 4,
+        "modified": "2021-08-17T18:59:51.691Z",
+        "imageUrl": "4-cheesecake.jpeg"
+    },
+    {
+        "name": "Bundt Cake",
+        "comment": "I'd not heard of this one. Every day's a school day. I'm guessing it has pistachio.",
+        "yumFactor": 3,
+        "image": "bundt.jpeg",
+        "id": 5,
+        "modified": "2021-08-16T20:06:06.986Z",
+        "imageUrl": "5-bundt.jpeg"
+    },
+    {
+        "name": "Pumpkin Pie",
+        "comment": "Can a pie be a cake? I guess so. Great for halloween, this one.",
+        "yumFactor": 2,
+        "image": "pumpkin pie.jpeg",
+        "id": 6,
+        "modified": "2021-08-17T18:21:14.266Z",
+        "imageUrl": "6-pumpkin pie.jpeg"
+    },
+    {
+        "name": "Honey Cake",
+        "comment": "Bees - very important. Anything with honey is always good.",
+        "yumFactor": 3,
+        "image": "honey.jpeg",
+        "id": 7,
+        "modified": "2021-08-16T11:30:11.073Z",
+        "imageUrl": "7-honey.jpeg"
+    },
+    {
+        "name": "Lime Cake",
+        "comment": "A lime is like a slightly politer lemon. Less acerbic, and yet just as flavourful. No offense, lemons.",
+        "yumFactor": 4,
+        "image": "lime.jpeg",
+        "id": 8,
+        "modified": "2021-08-16T11:17:55.108Z",
+        "imageUrl": "8-lime.jpeg"
+    }
+]
