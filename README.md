@@ -97,6 +97,10 @@ To get a local copy up and running follow these simple steps.
 
 -   API documentation built using Swagger - to view and experiment, go to `/api-docs`
 
+### **_Persistence_**
+
+-   Cakes Demo uses flat files with the prime aim of being quick to deploy in a development environment, without external dependencies. In a production environment, this could easily be changed by adding a handler in 'providers', such as for MongoDB or CouchDB (or an SQL based datastore).
+
 ## Front end
 
 ### **_Build_**
